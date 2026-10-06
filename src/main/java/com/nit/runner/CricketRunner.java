@@ -28,7 +28,7 @@ public class CricketRunner implements CommandLineRunner {
 				+ "\n8.find Age Between"
 				+ "\n9.Find By Team"
 				+ "\n10.count players By Team name"
-				+ "\n11.Find Top Avg Player");
+				+ "\n1111");
 		int choice = sc.nextInt();
 		switch(choice) {
 		case 1:{
